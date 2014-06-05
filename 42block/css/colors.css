@@ -1,0 +1,61 @@
+
+/*header*/
+
+#header			{	background:#465770;	}
+#headerContainer{	background:#1b222c;	}
+#headerText		{	color:#1b222c;	}
+
+	/* subHeader: logo*/
+
+#logo		{	box-shadow: 10px 30px 0 #465770;background:#506d92;	}
+#logoText	{	color: #1b222c;	}
+#logoText b	{	color: #363f4e;	}
+	
+	/*subHeader: topMenu*/
+#bottom-mainMenu ul li a:hover	{text-shadow:0px 0px 25px #506d92;
+								 box-shadow: 0 0 1px rgba(0,0,0,0.3), inset 0 0 0 2.5px #1b222c, inset 0 0 0 5px #465770;}
+#mainMenuContainer	{	background:#111d4a; box-shadow: 10px 20px 0 #121d37;	}
+#mainMenu			{	box-shadow: 10px 30px 0 #465770; background:#506d92;	}
+#mainMenu ul li a		{	background:#1b222c; color:#506d92;						}
+#mainMenu ul li a:hover{	background:#506d92; color:#1b222c;						}
+
+#floatingMainMenu			{	box-shadow: 5px 5px 0 #465770; background:#506d92;	}
+#floatingMainMenu ul li a		{	background:#1b222c; color:#506d92;						}
+#floatingMainMenu ul li a:hover{	background:#506d92; color:#1b222c;						}
+
+/*Main content*/
+
+.post	               {box-shadow: 10px 10px 0 #465770;background:#506d92;}
+#mainBlockIndex 	   {background-color:rgba(0,0,0,0.7);box-shadow: 10px 10px 0 rgba(0,0,0,0.4);}
+
+/*Footer*/
+#footer                {background:#506d92;}
+#subfooter             {background:#1b222c; color:#506d92;}
+
+#footer-logo		{	background:#506d92;	}
+#footer-logoText	{	color: #1b222c;	}
+#footer-logoText b	{	color: #363f4e;	}
+	/*subMainContent: functions */
+
+#textBar{background:#506d92;box-shadow: 20px 10px 0 #465770}
+#profilePicture{box-shadow: 5px 5px 0 #465770, inset 0px 0px 0 rgba(255,255,255,0.7);border: 3px solid #506d92;}
+
+.informationBox{background: rgba(255,255,255,0.7);box-shadow: 10px 10px 0 rgba(255,255,255,0.4)}
+
+#addSocialNetworking	{background: rgba(255,255,255,0.7);box-shadow: 10px 10px 0 rgba(255,255,255,0.4)}
+#addSocialNetworking b	{background:#506d92;box-shadow: 5px 5px 0 #465770}
+
+
+#boxOfView			{background: rgba(255,255,255,0.7);box-shadow: 10px 10px 0 rgba(255,255,255,0.4)}
+#boxOfView b		{background:#506d92;box-shadow: 5px 5px 0 #465770}
+#newPost			{background: rgba(255,255,255,0.7); box-shadow: 10px 10px 0 rgba(255,255,255,0.4); border: 1px solid transparent; color: white;}
+#notificationsBar	{background: rgba(255,255,255,0.7); box-shadow: 10px 10px 0 rgba(255,255,255,0.4); border: 1px solid transparent; color: white;}
+#topStories			{background: rgba(255,255,255,0.7); box-shadow: 10px 10px 0 rgba(255,255,255,0.4); border: 1px solid transparent; color: white;}
+.labelBox 			{background:#506d92;box-shadow: 5px 5px 0 #465770; color: white;}
+
+/* guilds theme */
+
+#guildMenu 	ul li a:hover{ color:rgba(255,255,255,0.3);}
+#armoryMenu ul li a:hover{ color:rgba(255,255,255,0.3);}
+.messageD2				{background:#465770;box-shadow: 5px 10px 0 #1b222c;}
+.messageD1				{background:rgba(255,255,255,0.7);box-shadow: 5px 10px 0 #1b222c;}

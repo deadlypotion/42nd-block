@@ -1,0 +1,36 @@
+BUILD LOG 42BLOCK
+ 
+# 0.2a pre-alpha build
+# 9/27/2013 log by Tal Kalman
+
+-building a serial code system for beta testing -> done
+	-generating a random serial and saving via database
+	* random serial for each user
+	* in case user don't have a serial, row appear blank and user has to create a new serial.
+	-making a serial maker interface synced with database
+-making a groups system, friends system -> done
+	-database arrangement
+	-new group/friend form
+	-testing
+	-dynamic list of groups/friends
+	* saving a template in functions folder
+-building a dynamic news system, and user/group timeline -> done
+	-making a database log for all user/group functions in the web app
+	-printing in a loop and decoration with JQUERY
+	* saving a template in functions folder
+
+# 0.3 pre-alpha build
+# 4/6/2014 log by Tal Kalman
+
+-building a guild system
+    -a guild is a place to meet friends and start playing in easy and convenient way.
+    * a symbol, that represent every guild. yes. like game of thrones.
+    * a page for each guild, some chat rooms, nice event log, music playing on the background (optional) and a new paper that let people know whats up.
+    * in every guild there is communty for game or software, may be more then one.
+    -guild represent the concept of clans. they aren't that different.
+    -each guild may be open free or closed for memeberships only. you even can apply form to get in. or out. your choice to make.
+    
+-404 page -> done in 4/7/14
+
+-ip user recognition -> done in 4/7/14
+    *this will short the entry time for each user
